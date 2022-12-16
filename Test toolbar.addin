@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command 3DR_R23_Add-in_Template</Text>
+    <Description>3DR_R23_Add-in_Template</Description>
+    <Assembly>3DR_R23_Add-in_Template.dll</Assembly>
+    <FullClassName>_3DR_R23_Add_in_Template.Command</FullClassName>
+    <ClientId>FC2BD124-C235-42D7-B055-4D76BEE47C42</ClientId>
+    <VendorId>com.3dreid</VendorId>
+    <VendorDescription>Laura@3DReid, https://3dreid.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application 3DR_R23_Add-in_Template</Name>
+    <Assembly>3DR_R23_Add-in_Template.dll</Assembly>
+    <FullClassName>_3DR_R23_Add_in_Template.App</FullClassName>
+    <ClientId>4ca5194b-1762-462a-b589-5ac4663120f6</ClientId>
+    <VendorId>com.3dreid</VendorId>
+    <VendorDescription>Laura@3dreid, https://3dreid.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
