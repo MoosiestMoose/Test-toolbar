@@ -26,7 +26,7 @@ namespace Test_toolbar
             Document doc = uidoc.Document;
 
 
-            TaskDialog.Show("Test", "Command 1");
+            TaskDialog.Show("Happy December", "Have a moosing great Hanukkah and Christmas everyone :) ");
 
 
             return Result.Succeeded;

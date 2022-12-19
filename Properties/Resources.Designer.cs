@@ -71,6 +71,16 @@ namespace Test_toolbar.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Cheese {
+            get {
+                object obj = ResourceManager.GetObject("Cheese", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to &apos;iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAe9SURBVFhHxZZpbFTXFcd/s3u8jW28Y5vNtdtQFhMISUuUtMEsDmFrI1W4qAKjEimlhdROVRFUUIOqKh+qqkkTDNhJKyj5UMrWCgiqEwgk1NDG2BhvbB5sM17GnsGefeb1vMcMBAyENmr523fu1TvrPfecc69OEfAIoY/Ojwxf4EAsOP9NkB5O9pEfwX0d2LlzO3v3/YWwLojbHWHNyhWsrqiIUh+MnTt3UvPebmw2vYTYxLKly6moWBOl3gljdB4Fv9fPlWtdvDTn+xxs+ZDmliYOHTyExz9COBRm0oRCZs6aqfGeqT/DxcsdGEwGrOYEzgtvgsXKwonP8vvjf8TvD2h898IoB9SA+AMBOTk9SvA6KxdV0enz8tHJIxz9YD95qVNov9ZI2aI [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string InvaderString {

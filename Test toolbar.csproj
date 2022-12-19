@@ -70,6 +70,7 @@
     <EmbeddedResource Include="Resources\32x32Moose.jpg" />
     <EmbeddedResource Include="Resources\Untitled.png" />
     <None Include="Resources\StrTest.bmp" />
+    <None Include="Resources\Cheese.png" />
     <Content Include="Test toolbar.addin" />
   </ItemGroup>
   <ItemGroup>

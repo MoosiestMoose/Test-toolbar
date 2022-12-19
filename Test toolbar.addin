@@ -4,16 +4,16 @@
     <Text>Command 3DR_R23_Add-in_Template</Text>
     <Description>3DR_R23_Add-in_Template</Description>
     <Assembly>3DR_R23_Add-in_Template.dll</Assembly>
-    <FullClassName>_3DR_R23_Add_in_Template.Command</FullClassName>
+    <FullClassName>Test_toolbar.Command</FullClassName>
     <ClientId>FC2BD124-C235-42D7-B055-4D76BEE47C42</ClientId>
     <VendorId>com.3dreid</VendorId>
     <VendorDescription>Laura@3DReid, https://3dreid.com</VendorDescription>
   </AddIn>
   <AddIn Type="Application">
-    <Name>Application 3DR_R23_Add-in_Template</Name>
+    <Name>Holiday Time</Name>
     <Assembly>3DR_R23_Add-in_Template.dll</Assembly>
-    <FullClassName>_3DR_R23_Add_in_Template.App</FullClassName>
-    <ClientId>4ca5194b-1762-462a-b589-5ac4663120f6</ClientId>
+    <FullClassName>Test_toolbar.App</FullClassName>
+    <ClientId>BD998471-C859-4697-8913-3A5C53FA41C0</ClientId>
     <VendorId>com.3dreid</VendorId>
     <VendorDescription>Laura@3dreid, https://3dreid.com</VendorDescription>
   </AddIn>
